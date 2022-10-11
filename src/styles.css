@@ -148,7 +148,7 @@
   position: absolute;
   bottom: 0;
   width: 414px;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 .navbar-individual-boxes {
@@ -156,7 +156,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 3%;
+  margin: auto;
   width: 20%;
 }
 .navbar-icon-box {
